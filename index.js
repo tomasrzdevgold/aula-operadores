@@ -77,6 +77,8 @@ const div2 = segundoNumeroN % primeiroNumeroN
 const restDiv1 = div1 === 0 
 let restDiv2 = div2 >= 1
 
+// restDiv2 = !restDiv2 
+
 console.log("o primeiro numero é divisivel pelo segundo?",restDiv1 )
 console.log("o segundo numero é divisivel pelo primeiro?",restDiv2)
 console.log(div2)
