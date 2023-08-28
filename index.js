@@ -16,7 +16,7 @@ boolean
 
 exercicio 2
 
-se o colega rodar o codigo assim como ele esta codado
+se o colega rodar o codigo assim como ele está codado
 no console vai mostrar os numeros que o usuario digitou
 um do lado do outro e não fazendo a adiçao correspondente
 
